@@ -4,8 +4,8 @@ It creates a ".git"-folder with all necesarry metadata.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-It holds files that you will make commits on, while working directory only has untracked files.
-I'm not yet sure what its value is.
+It holds files that you will make commits on, while working directory only has untracked files. When multiple files that are logically separated are edited you can choose to apply only one of these files
+to one commit
 
 How can you use the staging area to make sure you have one commit per logical
 change?
