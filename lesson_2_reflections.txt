@@ -26,6 +26,10 @@ it really helps to understanding detached heads
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+the two most recent commits of the branches are compared with the last commit before the second 
+branch was created. This way git can find out which changes where made in each branch as well 
+as how to merge the two branches. All commits from both branches are now reachable from the merged
+branch. 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
