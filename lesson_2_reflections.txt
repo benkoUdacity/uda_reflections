@@ -21,6 +21,8 @@ things
 
 
 How do the diagrams help you visualize the branch structure?
+thinking of commits as having parents can be easily understood by drawing arrows between the commits
+it really helps to understanding detached heads
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
