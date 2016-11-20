@@ -4,4 +4,4 @@ project or to simply make a backup of your files
 
 Why might you want to always pull changes manually rather than having Git automatically 
 stay up-to-date with your remote repository?
-I a file is pulled that you currently work on /have not saved yet you might lose it
+If a file is pulled that you currently work on /have not saved yet you might lose it
