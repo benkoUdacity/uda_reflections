@@ -33,3 +33,6 @@ branch.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+automatic merging is really time saving. it also needs user input if some conflicts could occure.
+with manuall merging you can make sure that no conflicts occure, but I think automatic merging
+does a good job at this too.
